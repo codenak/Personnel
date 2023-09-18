@@ -1,1 +1,2 @@
-Here's a link to the webpage: https://amazonclone-ten-jade.vercel.app/
+This project is a simple, non-functional mimic of the original Amazon.com website, using only HTML and CSS, using the concept of Flexbox.
+Here's a link to the webpage: https://amazoneclone-codenak.vercel.app/
