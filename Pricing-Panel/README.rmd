@@ -1,0 +1,2 @@
+This project depicts a simplistic responsive pricing panel including three different options. This projects features the use of Flexbox and Queries to make the webpage respond to two different screen sizes.
+Here's a link to the website: https://pricing-panel-codenak.vercel.app/
